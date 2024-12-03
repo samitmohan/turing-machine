@@ -1,4 +1,4 @@
-reading peter linz & turing paper for the first time -:
+reading peter linz & an attempt to read turing paper-:
 
 turing machine helps outputs if a problem is computable or not (shoutout alan turing)
 
